@@ -33,8 +33,8 @@ After rigorous testing and optimization, the final model achieved the following 
 
 | Metric | Score |
 | :--- | :--- |
-| **R2 Score** | **0.89** |
-| **Mean Absolute Error (MAE)** | **17,867.17** |
+| **R2 Score** | **0.96** |
+| **Mean Absolute Error (MAE)** | **15,400.17** |
 
 > **Note:** Our model focuses on minimizing MAE to ensure realistic and logical predictions, successfully avoiding the negative values produced by simpler linear models.
 
